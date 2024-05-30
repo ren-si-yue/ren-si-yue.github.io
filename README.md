@@ -17,4 +17,4 @@ python3 reproduce.py --image_name 'Asian_girl_cozy_off-the-shoulder top_flip hai
 ```
 
 # 基础模型权重
-- 本项目`v_0_0_0`版本使用第三方基础权重， 权重为
+- 本项目`v_0_0_0`版本使用第三方基础权重， 权重为LEOSAM创建的HelloWorld base model (helloworldSDXL30).
